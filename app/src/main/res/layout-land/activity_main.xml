@@ -214,6 +214,7 @@
                         android:isIndicator="false"
                         android:contentDescription="@string/cd_game_rating"/>
 
+
                     <TextView
                         android:id="@+id/reviews_count"
                         android:layout_width="wrap_content"
@@ -254,8 +255,7 @@
             android:paddingTop="20dp"
             app:cornerRadius="12dp"
             android:textAllCaps="false"
-            android:backgroundTint="@color/btn_install"
-            android:contentDescription="@string/cd_button_install"/>
+            android:backgroundTint="@color/btn_install" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

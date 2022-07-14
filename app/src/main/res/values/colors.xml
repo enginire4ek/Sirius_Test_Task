@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background">#050B18</color>
+    <color name="chips_text">#44A9F4</color>
+    <color name="background_chip">#0c2d4c</color>
+    <color name="description_text">#EEF2FB</color>
+    <color name="downloads">#45454D</color>
+    <color name="reviews">#A8ADB7</color>
+    <color name="devider">#1A1F29</color>
+    <color name="btn_install">#F4D144</color>
 </resources>

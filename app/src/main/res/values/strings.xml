@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="review_and_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="review_count">%s Reviews</string>
+    <string name="cd_game_image">Game\'s image</string>
+    <string name="cd_game_logo">Game Logo</string>
+    <string name="cd_user_icon">User\'s icon</string>
+    <string name="cd_button_back">Button Back</string>
+    <string name="cd_button_install">Button Install</string>
+    <string name="cd_button_settings">Button Settings</string>
+    <string name="cd_game_rating">Game\'s Rating</string>
 </resources>
